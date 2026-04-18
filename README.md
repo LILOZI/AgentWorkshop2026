@@ -13,7 +13,7 @@ The goal is not just to show how to call an LLM with tools, but to help students
 
 These notebooks are designed for students with general Python knowledge, but no prior experience with LangGraph, Ollama, or agent frameworks.
 
-For more usefull sources and examples, [jump here](#future-reading-and-appendices)
+For more useful sources and examples, [jump here](#future-reading-and-appendices)
 
 ---
 
@@ -101,12 +101,15 @@ The notebooks support that goal by teaching the same underlying building blocks 
 ## Future Reading and Appendices
 
 The following section contains links to LangGraph documentation and agent examples, along with other blog posts or videos.\
-It elaborates on topics we touched in class and more.\
+It elaborates on topics we touched on in class and more.\
 
-> Note that all LangChain YT videos have links to detailed video notes and github repositories, it is important you check them as well.\
->Some implementations are marked as `failed`, in that case you should only learn from the theoretic side and the idea behind the implementation and not the actual implementation.\
->Remember, abstractions can make developing "easy", but imposibble to solve real complex problems.
+> Note that all LangChain YT videos have links to detailed video notes and github repositories, it is important that you check them as well.\
+>Some implementations are marked as `failed`, in that case, you should only learn from the theoretical side and the idea behind the implementation and not the actual implementation.\
+>Remember, abstractions can make developing "easy", but impossible to solve real complex problems.
 > 
+
+#### Agent Design Principles
+- [IBM Technology: The 7 Skills You Need to Build AI Agents](https://www.youtube.com/watch?v=mtiOK2QG9Q0)
 
 #### State reducers & Pydantic models & Structured Output
 - [LangChain: LangGraph Agents with Structured Output](https://www.youtube.com/watch?v=0i9NzY_b3pg&t)
@@ -116,7 +119,7 @@ It elaborates on topics we touched in class and more.\
 - [LangGraph Documentation: Tools](https://docs.langchain.com/oss/python/langchain/tools)
 
 #### Prompt Engineering & Context Engineering
-- [IBM Technology: Context Engineering vs Prompt Engineering youtube video](https://www.youtube.com/watch?v=vD0E3EUb8-8)
+- [IBM Technology: Context Engineering vs. Prompt Engineering: Smarter AI with RAG & Agents](https://www.youtube.com/watch?v=vD0E3EUb8-8)
 - [LangChain: Context Engineering for Agents](https://www.youtube.com/watch?v=4GiqzUHD5AA)
 
 #### More Agent Examples
